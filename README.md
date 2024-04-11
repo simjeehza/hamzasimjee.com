@@ -1,1 +1,0 @@
-A temporary portfolio website to learn the basics of html, css and JS.
