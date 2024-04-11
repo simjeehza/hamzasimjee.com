@@ -213,7 +213,7 @@ header:after {
 }
 
 .main-photo {
-  background: url("port pfp.jpg");
+  background: url("https://github.com/simjeehza/hamzasimjee.com/blob/main/port%20pfp.jpg");
   background-position: center;
   background-size: cover;
   border: 7px solid var(--lighter-black);
