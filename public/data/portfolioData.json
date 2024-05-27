@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name": "Hamza Simjee",
+    "occupation": "Software Engineer",
+    "image": "profilepic.jpg",
+    "bio": "Based in Orange County, California",
+    "resumedownload": "https://drive.google.com/file/d/1PCijtW9K4eU_in4ENpVuxH1MNMG9Vnby/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hamza-simjee/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/simjeeh",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "experience": {
+    "education": [
+      {
+        "school": "University of California, Riverside",
+        "degree": "Bachelor's in Computer Science",
+        "graduated": "June 2024"
+      },
+      {
+        "school": "University of California, Riverside",
+        "degree": "Bachelor's in Psychology",
+        "graduated": "June 2024"
+      },
+      {
+        "school": "Sage Hill School",
+        "degree": "High School",
+        "graduated": "June 2019"
+      }
+    ],
+    "work": [
+      {
+        "title": "Shoreline Software SWE (Part-time)",
+        "years": "Sep 2019 - Present",
+        "description": "Building a full-featured demo app that will be used to provide product comparison to potential customers\nThe app ingests data from competitors as well as our marquee product, showing side by side comparisons and highlighting the advantages of our product",
+        "img": "shoreline.png",
+        "url": "https://shoreline.io"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Keyboard Hero",
+        "description": "Being an embedded systems project, C was used to program an ATmega1284 to run a game called Keyboard Hero based off of the popular game Guitar Hero.\nHardware such as shift registers, a LCD Screen, and a LED Matrix were used to implement the game.",
+        "img": "KeyboardHero.jpg",
+        "link": "https://github.com/hsimjee/Keyboard-Hero"
+      },
+      {
+        "title": "sentimentalgifts.shop",
+        "description": "Used CSS, HTML, and Bootstrap 4 to create a fully responsive website for a U.K. based company",
+        "img": "sentimentalGifts.png",
+        "link": "https://www.sentimentalgifts.shop/"
+      },
+      {
+        "title": "Rshell",
+        "description": "Used APIs, system calls, and data structures to create a shell program inspired from Bash\nDeveloped support for commands, nested parentheses and quotations, and file redirection",
+        "img": "rshell.png",
+        "link": "https://github.com/hsimjee/rshell"
+      },
+      {
+        "title": "Spyfall",
+        "description": "Constructed an Android app, now in launch readiness phase\nProgramed algorithms to send SMS messages to contacts, chosen as players, giving each a role",
+        "img": "spyfall.jpg",
+        "link": ""
+      },
+      {
+        "title": "Plex Media Server",
+        "description": "Created and maintained a media server to stream my movies remotely",
+        "img": "plex.png",
+        "link": ""
+      },
+      {
+        "title": "Ocular-Echo",
+        "description": "To help the visually impaired, made hardware that provides tactile feedback as the wearer comes into proximity of potentially hazardous objects",
+        "img": "ocularecho.jpg",
+        "link": "https://github.com/hsimjee/Ocular-Echo"
+      },
+      {
+        "title": "Trees",
+        "description": "Created AVL and 2-3 trees with preorder, inorder, and postorder transversals",
+        "img": "trees.png",
+        "link": "https://github.com/hsimjee/Trees"
+      },
+      {
+        "title": "Golden Bear Claw Adv.",
+        "description": "Fabricated game concepts and created a text-based adventure game using\nCreated object models to parse user input, generate maps, and place items",
+        "img": "goldenbearclawadventure.png",
+        "link": "https://github.com/hsimjee/Cutie-Hack-2017"
+      },
+      {
+        "title": "Custom Arduino Radio",
+        "description": "Designed a schematic and engineered a radio working primarily off of an Arduino Uno\nProgramed Arduino to receive bluetooth packages and control the radio appropriately including being able to scan and set favorite channels",
+        "img": "arduino.png",
+        "link": ""
+      },
+      {
+        "title": "Bulletin Board",
+        "description": "Made a bulletin board using objects to create messages and replies",
+        "img": "bboard.jpg",
+        "link": "https://github.com/hsimjee/Bulletin-Board"
+      },
+      {
+        "title": "Battleship",
+        "description": "Replicated game form and constructed maps with randomly placed ships\nProgrammed AI to play with random attacks, not allowing repetition",
+        "img": "battleship.png",
+        "link": "https://github.com/hsimjee/Battleship"
+      },
+      {
+        "title": "The Toothpick Game",
+        "description": "Created options for playing against another person or against an AI with three difficulties",
+        "img": "toothpick.png",
+        "link": "https://github.com/hsimjee/The-Toothpick-Game"
+      }
+    ],
+    "skills": [
+      "java.png",
+      "c++.png",
+      "python.png",
+      "c.png",
+      "elixir.png",
+      "erlang.png",
+      "docker.png",
+      "chromium.png",
+      "puppeteer.png",
+      "github.png",
+      "AWS.png",
+      "kubernetes.png",
+      "dynamodb.png",
+      "s3.png",
+      "apigateway.png",
+      "ec2.png",
+      "eks.png",
+      "lambda.png",
+      "cloudformation.png",
+      "cloudwatch.png",
+      "cognito.png",
+      "route53.png",
+      "cloudfront.png",
+      "amplify.png",
+      "bash.png",
+      "react.png",
+      "bootstrap.png",
+      "js.png",
+      "css.png",
+      "html.png"
+    ]
+  }
+}
